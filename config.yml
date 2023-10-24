@@ -1,0 +1,5 @@
+path_to_secret: "secret.yml"
+path_to_bin: "../bin"
+
+nexus_url: "https://ya.ru/"
+repository: "kekw"
